@@ -43,7 +43,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/ygorp/Sistema_contrato.git
     cd nome-da-pasta-do-projeto
     ```
 
